@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10px;
+    min-height: 100vh;
     font-family: sans-serif;
     background: linear-gradient(to right, #F359C8, #E00C0C);
 }
@@ -28,7 +29,7 @@ body {
     word-wrap: break-word;
     word-break: break-all;
     text-align: right;
-    min-height: 40px;
+    min-height: 45px;
 }
 .screen {
     width: 288px;
