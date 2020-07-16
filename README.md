@@ -1,4 +1,4 @@
-# Calculator
+# calculator
 
 A simple calculator, with addition, substraction, division and multiplication <br />
 Beautiful background gradient <br />
